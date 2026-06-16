@@ -48,5 +48,4 @@ class DBConnection:
         
         
 
-db = DBConnection()
-db.init_database_and_tables()
+

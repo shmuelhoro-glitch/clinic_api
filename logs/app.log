@@ -1,0 +1,12 @@
+26-06-16 20:13:27 | INFO | test1
+26-06-16 20:14:46 | INFO | test1
+26-06-16 20:22:58 | INFO | test1
+26-06-16 22:27:43 | INFO | A call was made to add a new doctor.
+26-06-16 22:27:43 | INFO | The doctor was added successfully.
+26-06-16 22:27:58 | INFO | A call was made to add a new doctor.
+26-06-16 22:27:58 | INFO | The doctor was added successfully.
+26-06-16 22:29:49 | INFO | A call was made to add a new doctor.
+26-06-16 22:31:24 | INFO | A call was made to add a new doctor.
+26-06-16 22:31:28 | WARNING | An error occurred while adding a new doctor. Can't connect to MySQL server on 'localhost:3306' (10061)
+26-06-16 22:31:58 | INFO | A call was made to add a new doctor.
+26-06-16 22:31:58 | INFO | The doctor was added successfully.
